@@ -10,8 +10,8 @@ global.ytname = "YT: CrazyXyXx"
 global.socialm = "ig: CrazyXyXx"
 global.location = "Gabon, Libreville"
 
-global.ownernumber = '24105730123'  //creator number
-global.ownername = 'CRAZY DEV' //owner name
+global.ownernumber = '263710781795'  //creator number
+global.ownername = '𝐷𝐵𝑌☆' //owner name
 global.botname = '𝐂𝐑𝐀𝐙𝐘-𝐌𝐃 𝐕２.' //name of the bot
 
 //sticker details
